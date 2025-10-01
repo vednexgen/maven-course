@@ -23,15 +23,18 @@ By the end of this course, students will be able to:
 
 ## 📅 Course Schedule
 
-The course is planned as a **7-day hands-on learning journey**:
+The course is planned as a **7-day learning journey**:
 
-1. Introduction to Build Tools & Maven Basics
-2. Maven Project Structure & Lifecycle
-3. Understanding `pom.xml`
-4. Dependencies & Scopes
-5. Maven Plugins & Build Customization
-6. Multi-Module Maven Projects
-7. Advanced Maven & Best Practices
+1. Introduction to Build Tools & Maven Basics [⏩](./course-docs/01-INTRO_TO_MAVEN.md)
+2. Maven Project Structure [⏩](./course-docs/02-MVN_STRUCTURE.md)
+3. Understanding `pom.xml` [⏩](./course-docs/03-POM_XML.md)
+4. Dependencies & Scopes [⏩](./course-docs/04-DEPENDENCY_SCOPE.md)
+5. Maven Plugins & Build Customization [⏩](./course-docs/05-BUILD_PLUGINS_N_GOALS.md)
+6. Maven Life Cycle [⏩](./course-docs/06-MVN_LIFECYCLE.md)
+7. Multi-Module Maven Projects [⏩](./course-docs/07-MULTI_MODULE_PROJ.md)
+8. Advanced Maven & Best Practices [⏩](./course-docs/08-MVN_ADVANCE.md)
+
+> Click on ⏩ icon to jump to corresponding topic directly.
 
 ---
 
@@ -40,26 +43,6 @@ The course is planned as a **7-day hands-on learning journey**:
 * Basic knowledge of Java programming.
 * JDK (Java Development Kit) installed.
 * IDE (e.g., IntelliJ IDEA, Eclipse, or VS Code) installed.
-
----
-
-## 📂 Repository Structure
-
-```
-maven-course/
-│
-├── course-docs  
-│   │
-│   ├── Day1/                    # Introduction to Maven
-│   ├── Day2/                    # Project Structure & Lifecycle
-│   ├── Day3/                    # POM.xml
-│   ├── Day4/                    # Dependencies & Scopes
-│   ├── Day5/                    # Plugins & Customization
-│   ├── Day6/                    # Multi-Module Projects
-│   ├── Day7/                    # Advanced & Best Practices
-│
-├── README.md                # Course introduction (this file)
-```
 
 ---
 
