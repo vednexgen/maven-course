@@ -170,6 +170,8 @@ Run with:
 <div>
 
 [![](https://img.shields.io/badge/Prev-⬅️-caddd6?style=for-the-badge&labelColor=caddd6)](07-MULTI_MODULE_PROJ.md)
+&emsp;&emsp;
+[![](https://img.shields.io/badge/Next-➡️-caddd6?style=for-the-badge&labelColor=caddd6)](09-SETTINGS_XML.md)
 
 </div>
 

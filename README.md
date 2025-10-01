@@ -33,6 +33,7 @@ The course is planned as a **7-day learning journey**:
 6. Maven Life Cycle [⏩](./course-docs/06-MVN_LIFECYCLE.md)
 7. Multi-Module Maven Projects [⏩](./course-docs/07-MULTI_MODULE_PROJ.md)
 8. Advanced Maven & Best Practices [⏩](./course-docs/08-MVN_ADVANCE.md)
+9. Understanding `settings.xml` [⏩](./course-docs/09-SETTINGS_XML.md)
 
 > Click on ⏩ icon to jump to corresponding topic directly.
 

@@ -83,8 +83,7 @@ java HelloWorld
 
 ```bash
 # Generate Maven project
-mvn archetype:generate -DgroupId=com.example -DartifactId=hello-maven \
-  -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+mvn archetype:generate -DgroupId=com.example -DartifactId=hello-maven -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
 
 # Move inside project
 cd hello-maven
