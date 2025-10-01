@@ -110,10 +110,10 @@ target/
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
+<div>
 
 [![](https://img.shields.io/badge/Prev-⬅️-caddd6?style=for-the-badge&labelColor=caddd6)](01-INTRO_TO_MAVEN.md)
-
+&emsp;&emsp;
 [![](https://img.shields.io/badge/Next-➡️-caddd6?style=for-the-badge&labelColor=caddd6)](03-POM_XML.md)
 
 </div>

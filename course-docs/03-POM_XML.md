@@ -130,10 +130,10 @@ mvn clean test
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
+<div>
 
 [![](https://img.shields.io/badge/Prev-⬅️-caddd6?style=for-the-badge&labelColor=caddd6)](02-MVN_STRUCTURE.md)
-
+&emsp;&emsp;
 [![](https://img.shields.io/badge/Next-➡️-caddd6?style=for-the-badge&labelColor=caddd6)](04-DEPENDENCY_SCOPE.md)
 
 </div>

@@ -101,10 +101,10 @@ mvn clean install
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
+<div>
 
 [![](https://img.shields.io/badge/Prev-⬅️-caddd6?style=for-the-badge&labelColor=caddd6)](06-MVN_LIFECYCLE.md)
-
+&emsp;&emsp;
 [![](https://img.shields.io/badge/Next-➡️-caddd6?style=for-the-badge&labelColor=caddd6)](08-MVN_ADVANCE.md)
 
 </div>

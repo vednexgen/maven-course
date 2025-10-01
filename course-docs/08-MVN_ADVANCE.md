@@ -167,7 +167,7 @@ Run with:
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
+<div>
 
 [![](https://img.shields.io/badge/Prev-⬅️-caddd6?style=for-the-badge&labelColor=caddd6)](07-MULTI_MODULE_PROJ.md)
 

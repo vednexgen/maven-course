@@ -149,10 +149,10 @@ Example (exclude transitive):
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
+<div>
 
 [![](https://img.shields.io/badge/Prev-⬅️-caddd6?style=for-the-badge&labelColor=caddd6)](03-POM_XML.md)
-
+&emsp;&emsp;
 [![](https://img.shields.io/badge/Next-➡️-caddd6?style=for-the-badge&labelColor=caddd6)](05-BUILD_PLUGINS_N_GOALS.md)
 
 </div>
