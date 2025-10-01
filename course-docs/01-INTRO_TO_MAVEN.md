@@ -119,13 +119,17 @@ mvn package
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <div>
 
 [![](https://img.shields.io/badge/Prev-⬅️-caddd6?style=for-the-badge&labelColor=caddd6)](../README.md)
+  </div>
+  <div>
 
 [![](https://img.shields.io/badge/Next-➡️-caddd6?style=for-the-badge&labelColor=caddd6)](02-MVN_STRUCTURE.md)
-
+  </div>
 </div>
+
 
 [![](https://img.shields.io/badge/Back_To_Intro-🔙-d6cadd?style=for-the-badge&labelColor=d6cadd)](../README.md)
 
