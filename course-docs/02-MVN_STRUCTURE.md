@@ -102,7 +102,7 @@ target/
 
 ---
 
-### 📌 Key Notes
+## 📌 Key Notes
 
 * Maven provides a **standardized project structure**.
 * The **build lifecycle** automates tasks from compile → test → package → deploy.

@@ -123,7 +123,7 @@ graph TD
 
 ---
 
-### 📌 Key Notes
+## 📌 Key Notes
 
 * Maven has **3 lifecycles**: default, clean, site.
 * Each lifecycle has **phases** bound to plugin goals.

@@ -121,7 +121,7 @@ mvn clean test
 
 ---
 
-### 📌 Key Notes
+## 📌 Key Notes
 
 * `pom.xml` is the **blueprint** of a Maven project.
 * Dependencies and plugins are declared inside it.

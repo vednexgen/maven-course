@@ -157,7 +157,7 @@ Run with:
 
 ---
 
-## 📚 Summary
+## ✨ Summary
 
 * Profiles → environment-specific builds.
 * Dependency Management → centralized version control.
